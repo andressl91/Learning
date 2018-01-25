@@ -1,0 +1,2 @@
+change from bokeh.charts import Scatter
+to from bkcharts import Scatter

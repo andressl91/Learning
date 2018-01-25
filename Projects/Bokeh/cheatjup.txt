@@ -1,0 +1,6 @@
+alt+Enter
+
+comand mode and edit mode
+dd = delete
+
+
