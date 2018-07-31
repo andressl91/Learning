@@ -1,0 +1,6 @@
+# Making pypi compatible project skeleton.
+https://www.youtube.com/watch?v=4fzAMdLKC5k
+
+# Autogeneration of python module template wiht cookiecutter
+https://github.com/audreyr/cookiecutter-pypackage
+remember lang=en_us.utf-8 cookiecutter "git path", if argues with language
